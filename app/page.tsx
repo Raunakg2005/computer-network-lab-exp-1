@@ -100,9 +100,7 @@ export default function NetworkBridgeLanding() {
               visibleSections.has("hero") ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
             }`}
           >
-            <span className="inline-block px-6 py-3 bg-[#64FFDA]/10 border border-[#64FFDA]/30 rounded-full text-[#64FFDA] text-sm font-medium backdrop-blur-sm">
-              Network Infrastructure
-            </span>
+            
           </div>
 
           <h1
@@ -291,7 +289,7 @@ export default function NetworkBridgeLanding() {
                 <div className="w-16 h-16 bg-[#64FFDA] rounded-full flex items-center justify-center mx-auto mb-6 group-hover:animate-pulse">
                   <Brain className="w-8 h-8 text-[#0A192F]" />
                 </div>
-                <h3 className="text-2xl font-bold mb-4 text-[#64FFDA] text-center">Learn</h3>
+                <h3 className="text-2xl font-bold mb-4 text-[#64FFDA] text-center">Function</h3>
                 <p className="text-gray-300 text-center leading-relaxed">
                   A bridge listens to all traffic to learn the MAC address of every device on each segment, building an
                   internal address table.
@@ -434,7 +432,7 @@ export default function NetworkBridgeLanding() {
               visibleSections.has("comparison") ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
             }`}
           >
-            The Modern Successor
+            The Difference 
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-12">
