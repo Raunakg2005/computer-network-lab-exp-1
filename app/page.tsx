@@ -487,12 +487,6 @@ export default function NetworkBridgeLanding() {
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="py-12 px-4 border-t border-[#64FFDA]/30">
-        <div className="max-w-6xl mx-auto text-center">
-          <p className="text-lg text-[#64FFDA] font-semibold">A Presentation by RKG</p>
-        </div>
-      </footer>
     </div>
   )
 }
